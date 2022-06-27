@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fernando Hemmel.
+## Olá! Eu sou o Fernando Hemmel :wave:
 - 🔭 Em busca de uma vaga de dev junior.
 - 🌱 Estudando: Java
 - 😄 Pronouns: Ele/dele
